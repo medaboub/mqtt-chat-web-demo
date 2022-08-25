@@ -1,6 +1,8 @@
 # mqtt-chat-web-demo
 mqtt-chat cloud web chat demo
-
+<br>It allows you to integrate a complete messenger in your application through a few lines of code. Even a beginner in web development can integrate it easily. 
+<br>MQTT-CHAT cloud web is a messaging application similar to those used by facebook, linkedIn etc...
+<br>Below some screenshots of the demo application hosted in this github repository.
 
 
 ## Library features
