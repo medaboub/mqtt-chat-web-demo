@@ -5,6 +5,11 @@ MQTT-CHAT cloud web  is an chat library that provides full chat functionality an
 <br>Below some screenshots of the demo application hosted in this github repository.
 
 
+<a href="https://gifyu.com/image/Sw9fM"><img src="https://s6.gifyu.com/images/mqttchat_docked.gif" alt="mqttchat_docked.gif" border="0" /></a>
+
+
+
+
 ## Library features
 - Real-time Text Messaging
 - One-on-one Chat
