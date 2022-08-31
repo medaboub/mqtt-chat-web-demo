@@ -7,12 +7,43 @@ MQTT-CHAT cloud web  is an chat library that provides full chat functionality an
 <img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/screenshot_docked03.png">
 <img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/screenshot_docked05.png">
 ## Integration
+
 ```html
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
  <script src="https://cluster1.telifoun.com/webapi/ar/mqttchat.js?appid=mqttchat-87226030&uf=0"></script>
+```
+
 ### Docked Layout
 
+```html
+ <div id="mqttchat"   
+          data-layout="docked"   
+          class="mqttchat-lite" 
+          data-user-name="user"
+          data-user-surname="126"
+          data-user-link=""
+          data-user-avatar=""          
+          data-user-id="126"
+          data-user-gender="0"          
+     ></div>
+```
+
 ### Embedded Layout
+
+```html
+<div id="mqttchat"   
+          data-layout="embedded"   
+          class="mqttchat-lite" 
+          data-user-name="user"
+          data-user-surname="1"
+          data-user-link=""
+          data-user-avatar=""          
+          data-user-id="21"
+          data-user-gender="0"  
+          data-width="950"
+          data-height="650"        
+     ></div>
+```
 
 ## Library features
 - Real-time Text Messaging
