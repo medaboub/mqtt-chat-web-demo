@@ -10,7 +10,7 @@ MQTT-CHAT cloud web  is an chat library that provides full chat functionality an
 Add MQTTchat script to the header of your page just after JQuery Script.
 ```html
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
- <script src="https://cluster1.telifoun.com/webapi/ar/mqttchat.js?appid=mqttchat-87226030&uf=0"></script>
+ <script src="https://cluster1.telifoun.com/webapi/en/mqttchat.js?appid=mqttchat-87226030&uf=0"></script>
 ```
 
 ### Docked Layout
