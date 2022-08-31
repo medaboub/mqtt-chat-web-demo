@@ -94,7 +94,7 @@ telifounJQ(document).ready(function() {
 - Typing Indicators
 - Read Receipts
 - Languages : ar, fr, en
-- Storage Space : up to 2Go
+- Storage Space : up to 5Go
 - Data Retention : up to 30 days
 - WEB Push Notifications
 - Presence & messages webhooks.
