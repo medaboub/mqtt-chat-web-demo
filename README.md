@@ -6,7 +6,10 @@ MQTT-CHAT cloud web  is an chat library that provides full chat functionality an
 <img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/screenshot_docked.png"><br><br>
 <img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/screenshot_docked03.png">
 <img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/screenshot_docked05.png">
+## Integration
+### Docked Layout
 
+### Embedded Layout
 
 ## Library features
 - Real-time Text Messaging
