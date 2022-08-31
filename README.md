@@ -4,12 +4,12 @@ MQTT-CHAT cloud web  is an chat library that provides full chat functionality an
 <br>MQTT-CHAT cloud web is a complete messaging application similar to those used by facebook, linkedIn etc...
 <br>Below some screenshots of the demo application hosted in this github repository.
 
-<img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/screenshot_docked.png"><br><br>
-<img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/screenshot_docked05.png">
+<img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/photos/screenshot_docked.png"><br><br>
+<img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/photos/screenshot_docked05.png">
 
-<img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/screenshot_docked03.png">
+<img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/photos/screenshot_docked03.png">
 
-<img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/screenshot_embedded.png">
+<img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/photos/screenshot_embedded.png">
 
 ## Integration
 Add MQTTchat script to the header of your page just after JQuery Script.
