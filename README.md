@@ -50,6 +50,37 @@ In the body of your page, where you want to display MQTT chat,  add #mqttchat di
      ></div>
 ```
 
+## Events
+
+```javascript
+           /** On error event **/
+           telifounJQ(document).on("mqttchat-error",function(e){
+                console.log(JSON.stringify(e.mqttchat_data));
+            });
+
+          /** on page load complete **/
+          telifounJQ(document).ready(function() {
+
+               /** start chat with user id **/
+               telifounJQ(document).on("mqttchat-load-complete",function(e){
+                console.log("load complete");
+                telifounJQ.mqttchat_cloud.__startChatWithUser(2);
+               });
+
+              /** On Incoming Message Event **/
+              telifounJQ(document).on("mqttchat-incoming-message",function(e){
+                console.log(JSON.stringify(e.mqttchat_data));
+               });
+
+               /** On not readed messages count change event **/
+               telifounJQ(document).on("mqttchat-not-read-messages-count-update",function(e){
+                console.log(e.mqttchat_data);
+               });
+           });
+
+```
+
+
 ## Library features
 - Real-time Text Messaging
 - One-on-one Chat
