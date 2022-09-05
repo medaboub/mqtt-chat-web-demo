@@ -3,7 +3,7 @@ MQTT-CHAT cloud web  is an chat library that provides full chat functionality an
 <br>It allows you to integrate a complete messenger in your application through a few lines of code. Even a beginner in web development can integrate it easily. 
 <br>MQTT-CHAT cloud web is a complete messaging application similar to those used by facebook, linkedIn etc...
 <br>Below some screenshots of the demo application hosted in this github repository.
-<a href="https://medium.com/p/d2a1d1ed84c0">MQTT CHAT Cloud Web Integration step-by-step guide</a>
+<br><a href="https://medium.com/p/d2a1d1ed84c0">MQTT CHAT Cloud Web Integration step-by-step guide</a>
 <img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/photos/screenshot_docked.png"><br><br>
 <img src="https://github.com/medaboub/mqtt-chat-web-demo/blob/main/photos/screenshot_docked05.png">
 
